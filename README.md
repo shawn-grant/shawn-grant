@@ -1,7 +1,12 @@
-### Hi 👋, I'm Shawn
+## Hi 👋, I'm Shawn
 
-### I make cool stuff with code
-- 🔭 Currently obsession: Generative AI
+- CS @ UTech JA
+- Web & app dev
+- 2024 SWE intern @ Microsoft
+
+
+### About
+- 🔭 Currently obsession: Generative AI, Open source
 - 🔥 Favorite tech: Flutter, React, Typescript
 - ⚙️ I use: React, Flutter, Typescript, Nodejs, Python, Kotlin, Unity3D, Azure, GCP
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shawn-grant-431b39109/), [Email](mailto:shawngrant333@gmail.com)
