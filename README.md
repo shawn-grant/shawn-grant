@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Shawn
 
-- CS @ UTech JA
+- SWE @ Microsoft
+- CS @ UTech, JA
 - Web & app dev
-- 2024 SWE intern @ Microsoft
 - past president @ [gdsc-utech](https://github.com/gdsc-utech)
 
 
